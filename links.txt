@@ -1,0 +1,63 @@
+https://archive.ics.uci.edu/ml/index.html
+http://en.openei.org/wiki/Main_Page
+http://faostat3.fao.org/faostat-gateway/go/to/home/E
+https://www.idiap.ch/dataset
+http://openml.org
+http://rredc.nrel.gov/solar/old_data/nsrdb/1991-2005/tmy3/
+http://www.socialsensor.eu/results/datasets
+http://snap.stanford.edu/data/#cascades
+http://www.cs.waikato.ac.nz/ml/weka/datasets.html
+
+The following links point to some interesting datasets. However, feel free to look for other datasets!
+List of datasets
+A list of some interesting datasets.
+datasets.pdf
+Open Data Schweiz
+Open dataset of the Swiss administration
+http://opendata.admin.ch/
+Open Data Zürich
+Open dataset of the city of Zurich.
+http://data.stadt-zuerich.ch/content/portal/de/index/ogd.html
+Open Economics
+A list of economic data resources.
+http://openeconomics.net/resources/
+Living Archive
+A search engine for open data.
+http://www.livingarchive.eu/
+PubMed / MEDLINE / PubMed Central
+Publications databases (mostly biology and medicine).
+http://www.ncbi.nlm.nih.gov/pubmed
+http://www.ncbi.nlm.nih.gov/pmc/
+ArXiv
+Database of preprint (and other) publications.
+http://arxiv.org/
+Berkeley Earth Surface Temperature Study
+The project provides a preliminary data set from 1.6 billion temperature reports combined from 15 preexisting data archives; the data set is available in MATLAB format.
+http://berkeleyearth.org/data
+Maddison Data 
+Historical statistics about GDP and population data.
+http://www.ggdc.net/maddison/ 
+World Bank 
+The World Bank Data Catalog provides download access to over 2,000 socio-economic indicators from World Bank data sets.
+http://data.worldbank.org/ 
+International Monetary Found 
+The IMF publishes a range of time series data on IMF lending, exchange rates and other economic and ﬁnancial indicators.
+http://www.imf.org/external/data.htm
+Global Entrepreneurship Monitor (GEM)
+The Global Entrepreneurship Monitor provides annual assessments of entrepreneurial activity, ambitions and attitudes for a wide range of countries.
+http://www.gemconsortium.org
+CPSR of the University of Michigan 
+ICPSR oﬀers more than 500,000 digital ﬁles containing social science research data. Disciplines represented include political science, sociology, demography, economics, history, gerontology, criminal justice, public health, foreign policy, terrorism, health and medical care, early education, education, racial and ethnic minorities, psychology, law, substance abuse and mental health, and more. 
+http://www.icpsr.umich.edu/icpsrweb/ICPSR/
+UK Data Center of the University of Essex 
+The UK’s largest collection of digital research data in the social sciences and humanities. 
+http://www.data-archive.ac.uk/
+World Value Survey 
+The World Value Survey provides data about values and cultural changes in societies all over the world. 
+http://www.worldvaluessurvey.org/ 
+CSCW Data on Armed Conﬂict 
+CSCW and Uppsala Conﬂict Data Program (UCDP) at the Department of Peace and Conﬂict Research, Uppsala University, have collaborated in the production of a dataset of armed conﬂicts, both internal and external, in the period 1946 to the present. Currently, probably the most extensive dataset repository available, in particular for historic data. 
+http://www.prio.no/CSCW/Datasets/Armed-Conflict/ 
+ACLED 
+Partially contained in the PRIO dataset, ACLED (Armed Conﬂict Location and Events Dataset) is designed for disaggregated conﬂict analysis and crisis mapping. This dataset codes the location of all reported conﬂict events in 50 countries in the developing world. Data are currently being coded from 1997 to 2009 and the pro ject continues to backdate conﬂict information for African states to the year of independence.
+http://www.acleddata.com/
